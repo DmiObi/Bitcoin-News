@@ -1,2 +1,2 @@
-# Bitcoin News
+# Bitcoin News REST API
  
